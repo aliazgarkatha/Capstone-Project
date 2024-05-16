@@ -1,4 +1,4 @@
-# Capstone-Project
+# CNN architecture, ResNet
 Wild Eye: Wildlife Detection on The Road
 Wild Eye is an AI-powered system designed to enhance road safety by detecting wildlife on roads and issuing real-time warnings to drivers. This project aims to mitigate the risks associated with wildlife-related road accidents while also promoting wildlife conservation efforts.
 
